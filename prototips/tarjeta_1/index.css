@@ -3,7 +3,7 @@ body {
     display: flex;
     justify-content: center;
     min-height: 100vh;
-    font-family: Arial, sans-serif;
+    font-family: 'Manrope', Arial, sans-serif;
     text-align: center;
 }
 
@@ -14,6 +14,7 @@ padding: 20px;
 h1 {
 display: flex;
 justify-content: center;
+font-size: 55px;
 }
 
 p {
@@ -25,6 +26,8 @@ p {
     width: 35%;
     height: 50px;
     margin: auto; 
+    letter-spacing: 2px;
+    font-size: 14.7px;
 }
 
 .gallery{
@@ -41,9 +44,8 @@ padding: 55px;
     cursor: pointer;
 }
 
-img {
+img{
 
 
 
-    
 }
