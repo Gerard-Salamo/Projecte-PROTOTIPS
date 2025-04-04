@@ -1,1 +1,50 @@
+body {
+    margin: 0;
+    background-color: green
+}
 
+nav {
+    background-color:black;
+    padding: 10px 0; 
+    text-align: center;
+}
+
+.titulo-principal {
+    margin-bottom: 10px;
+    color: #ffffff;
+    font-size: 26px;
+}
+
+p {
+    margin-top: 25px; 
+    color: #fff;
+}
+
+.ImgCollage{
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 30px; 
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.cajaPR {
+    width: 292px;
+    height: 300px;
+    background-color: #fff;
+    border: 1px solid #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.cajaPR img {
+    max-width: 90%; 
+    max-height: 90%; 
+    margin-bottom: 10px;
+    border-radius: 5px; 
+}
