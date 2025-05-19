@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-sizing: border-box;
+    font-family: 'Manrope', Arial, sans-serif;
+    height: 100vh;
+    margin: 0;
+}
+
+
